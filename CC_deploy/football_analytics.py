@@ -1,4 +1,4 @@
-# https://ameybagwe12-miniproject-footballanaly-football-analytics-203tqk.streamlit.app/ --> streamlit website link
+# https://sandesh-miniproject-footballanaly-football-analytics-203tqk.streamlit.app/ --> streamlit website link
 
 import json
 import pandas as pd
